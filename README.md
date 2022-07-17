@@ -1,6 +1,6 @@
 ## ShareText-Bot
 
-Text Message Sharing Telegram Bot, Created By [Pr0fess0r-99](https://telegram.dog/Pr0fess0r_99)
+Text Message Sharing Telegram Bot, Created By [Movie Supplier](https://t.me/movie_supplier)
 
 ## [How To Deploy](https://youtu.be/oa2EeNNJvRI)
 
@@ -16,17 +16,17 @@ Text Message Sharing Telegram Bot, Created By [Pr0fess0r-99](https://telegram.do
 
 ## Support Me
 
-`Group` : [Join Support Group](https://telegram.me/Mo_Tech_Group/25)
+`Group` : [Join Group](https://t.me/movie_supplier)
 
-`Updates` : [Join Update Channel](https://telegram.me/Mo_Tech_YT)
+`Updates` : [Join Update Channel](https://t.me/channel_updates_MS)
 
-`YouTube` : [Subscribe YT Channel](https://youtube.com/c/MoTech_YT)
+`YouTube` : [Subscribe YT Channel](https://youtube.com/)
 
-`My Projects` : [Click Here](https://github.com/PR0FESS0R-99/Open-Source)
+`Repo` : [Click Here](https://github.com/xtremean/Share-Text-Bot)
 
 ## Credits
 
 `Pyrogram` [Thank You](https://github.com/delivrance)
 
-`Creator` [Thank To Me](https://github.com/PR0FESS0R-99/)
+`Creator` [Thank To Me](https://github.com/xtremean/)
 
