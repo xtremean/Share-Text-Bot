@@ -14,6 +14,20 @@ Text Message Sharing Telegram Bot, Created By [Movie Supplier](https://t.me/movi
 
 `BOT_PIC` : Start Pic 
 
+## Deploy
+You can deploy this bot anywhere.
+
+<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://github.com/xtremean/Share-Text-Bot/af-deploy-script">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 ## Support Me
 
 `Group` : [Join Group](https://t.me/movie_supplier)
